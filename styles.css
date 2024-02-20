@@ -8,13 +8,13 @@
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #f4f4f4;
+    background-color: #AFEEEE;
     color: #333;
 }
 
 header {
     background-color: #333;
-    color: #fff;
+    color: #B2FFFF;
     padding: 20px;
     text-align: center;
 }
@@ -52,7 +52,7 @@ p {
 
 footer {
     background-color: #333;
-    color: #fff;
+    color: #008B8B;
     text-align: center;
     padding: 10px 0;
 }
